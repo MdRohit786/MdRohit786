@@ -1,4 +1,4 @@
-#  💫 Hi 👋, I'm Md Rohit 
+#   Hi 👋, I'm Md Rohit 
 
 🚀 About Me<br>Hi, I’m a passionate Full Stack Developer (MERN) in the making!<br><br>💡 Currently building MERN stack web applications and leveling up my Full Stack skills every day.<br>🤝 Open to collaborating on exciting full-stack projects where I can learn, contribute, and grow.<br>🛠️ Exploring different web app tools & technologies to sharpen my development workflow.<br>📚 Continuously learning and experimenting—ask me about my projects or what I’ve already built!<br>🌙 And yes, like every true coder, I have a natural bias for dark mode.<br><br>✨ Always curious. Always coding. Always improving.
 
